@@ -2,4 +2,8 @@
 
 =======
 Feature 작업 1
+<<<<<<< HEAD
 >>>>>>> Feature: 작업1
+=======
+Feature 작업 2
+>>>>>>> Feature: 작업2
